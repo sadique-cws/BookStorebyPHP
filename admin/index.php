@@ -16,10 +16,10 @@
         <div class="row">
             <div class="col-3">
                <div class="list-group">
-                   <a href="" class="list-group-item list-group-item-action">Dashboard</a>
-                   <a href="" class="list-group-item list-group-item-action">Manage Genres</a>
-                   <a href="" class="list-group-item list-group-item-action">Manage Books</a>
-                   <a href="" class="list-group-item list-group-item-action">logout</a>
+                   <a href="index.php" class="list-group-item list-group-item-action">Dashboard</a>
+                   <a href="manageGenres.php" class="list-group-item list-group-item-action">Manage Genres</a>
+                   <a href="manageBooks.php" class="list-group-item list-group-item-action">Manage Books</a>
+                   <a href="../logout.php" class="list-group-item list-group-item-action">logout</a>
                </div>
             </div>
             <div class="col-9">
